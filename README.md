@@ -1,0 +1,3 @@
+# TestaOCroce
+
+Progetto scolastico.
